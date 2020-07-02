@@ -1,3 +1,3 @@
 # git-myhub
 training
-This is my first Training Module.
+This is my first Training Module as part of Edureka tutorial
